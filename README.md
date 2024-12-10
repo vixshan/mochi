@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/imavikshan/mochi">
+  <a href="https://github.com/iamvikshan/mochi">
     <img src="https://cdn.discordapp.com/attachments/1072562937732026439/1163539374282117140/logo.png?ex=653ff17c&is=652d7c7c&hm=08950e60af5c841343b546e12bb805a05a9b7edc69ca051b21c6c6877316c6b7&" alt="Pbot-plus" width="200" height="200">
   </a>
 
@@ -23,9 +23,9 @@
     Mochi is an updated version of <a href="https://github.com/DotwoodMedia/Dbot">Dbot</a>, an advanced Discord multipurpose bot containing more than 400 commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
     <br />
     <br />
-    <a href="https://github.com/imavikshan/mochi/issues">Report Bug</a>
+    <a href="https://github.com/iamvikshan/mochi/issues">Report Bug</a>
     ·
-    <a href="https://github.com/imavikshan/mochi/issues">Request Feature</a>
+    <a href="https://github.com/iamvikshan/mochi/issues">Request Feature</a>
   </p>
 </p>
 
@@ -68,7 +68,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/imavikshan/mochi">
+  <a href="https://github.com/iamvikshan/mochi">
     <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
   </a>
 </p>
@@ -98,7 +98,7 @@
 - Clone the repo and install dependancies by running
 
 ```bash
-git clone https://github.com/imavikshan/mochi.git
+git clone https://github.com/iamvikshan/mochi.git
 cd Mochi
 npm install
 ```
@@ -147,19 +147,19 @@ By Donating, You Will Help Me To Maintain This Project
 》[Sponsor](https://github.com/sponsors/imavikshan)
 
 [version-shield]: https://img.shields.io/github/package-json/v/imavikshan/Mochi?style=for-the-badge
-[version-url]: https://github.com/imavikshan/mochi
+[version-url]: https://github.com/iamvikshan/mochi
 [pr-shield]: https://img.shields.io/github/issues-pr/imavikshan/Mochi?style=for-the-badge
-[pr-url]: https://github.com/imavikshan/mochi/pulls
+[pr-url]: https://github.com/iamvikshan/mochi/pulls
 [contributors-shield]:
   https://img.shields.io/github/contributors/imavikshan/Mochi.svg?style=for-the-badge
-[contributors-url]: https://github.com/imavikshan/mochi/graphs/contributors
+[contributors-url]: https://github.com/iamvikshan/mochi/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/imavikshan/Mochi.svg?style=for-the-badge
-[forks-url]: https://github.com/imavikshan/mochi/network/members
+[forks-url]: https://github.com/iamvikshan/mochi/network/members
 [stars-shield]: https://img.shields.io/github/stars/imavikshan/Mochi.svg?style=for-the-badge
-[stars-url]: https://github.com/imavikshan/mochi/stargazers
+[stars-url]: https://github.com/iamvikshan/mochi/stargazers
 [issues-shield]: https://img.shields.io/github/issues/imavikshan/Mochi.svg?style=for-the-badge
-[issues-url]: https://github.com/imavikshan/mochi/issues
+[issues-url]: https://github.com/iamvikshan/mochi/issues
 [license-shield]: https://img.shields.io/github/license/imavikshan/Mochi.svg?style=for-the-badge
-[license-url]: https://github.com/imavikshan/mochi/blob/master/LICENSE
+[license-url]: https://github.com/iamvikshan/mochi/blob/master/LICENSE
 
 ![Alt](https://repobeats.axiom.co/api/embed/61dc64e7e66cf5541e1511ad2c822c17ad581352.svg 'Repobeats analytics image')
